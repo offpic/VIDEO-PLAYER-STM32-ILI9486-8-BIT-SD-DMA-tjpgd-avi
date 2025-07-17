@@ -9,4 +9,7 @@ ffmpeg -i SpongeBob.mp4 -c:v mjpeg -s 320x240 -r 25 -q 15 noaudio.avi
 
 
 
+
+ffmpeg -i SpongeBob.mp4 -c:v mjpeg -s 480x320 -r 25 -q 15 noaudio1.avi
+
 ![Screenshot_1](https://github.com/user-attachments/assets/c62bc4af-80da-427d-a2a4-9d477de15718)
