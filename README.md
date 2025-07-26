@@ -1,6 +1,6 @@
 **VIDEO PLAYER STM32 ILI9486 8 BIT SD DMA tjpgd avi**
 
-
+https://www.youtube.com/watch?v=es7YlJPMs6A
 
 
 ffmpeg -i SpongeBob.mp4 -c:v mjpeg -s 320x240 -r 25 -q 15 noaudio.avi
